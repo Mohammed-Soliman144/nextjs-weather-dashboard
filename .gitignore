@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# new updates of next.js v16.2.1 (Removed CLAUDE and AGENTS)
+AGENTS.md
+CLAUDE.md
